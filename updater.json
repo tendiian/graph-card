@@ -1,0 +1,9 @@
+{
+  "graph-card": {
+    "updated_at": "2018-10-12",
+    "version": "1.0.1",
+    "remote_location": "https://raw.githubusercontent.com/tendiian/graph-card/master/graph-card.js",
+    "visit_repo": "https://github.com/tendiian/graph-card",
+    "changelog": "https://github.com/tendiian/graph-card/blob/master/changelog.md"
+  }
+}
